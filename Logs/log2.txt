@@ -1,0 +1,5 @@
+2023-07-14 10:00:00: ERROR: File not found
+2023-07-14 10:05:00: WARNING: Low disk space
+2023-07-14 10:10:00: INFO: User login successful
+2023-07-14 10:15:00: ERROR: File not found
+2023-07-14 10:20:00: INFO: User logout successful
